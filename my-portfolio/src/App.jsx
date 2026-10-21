@@ -133,7 +133,7 @@ const Hero = () => (
           
           {/* Restored exact requested image path */}
           <img 
-            src="../public/ProfilePic.jpg"
+            src="/profile.jpg"
             alt="Yashdeep Profile" 
             className="relative w-72 h-72 md:w-96 md:h-100 rounded-full object-cover border-8 border-white shadow-2xl z-10 bg-slate-200"
           />
